@@ -55,4 +55,5 @@ If you want to learn more about building native executables, please consult <htt
 
 ## Related Guides
 
-- SmallRye JWT Build ([guide](https://quarkus.io/guides/security-jwt-build)): Create JSON Web Token with SmallRye JWT Build API
+- SmallRye JWT Build ([guide](https://quarkus.io/guides/security-jwt-build)): Create JSON Web Token with SmallRye JWT
+  Build API
